@@ -1,0 +1,51 @@
+C:\Users\sara abou shousha\source\repos\Art Gallery\bin\Debug\Art Gallery.exe.config
+C:\Users\sara abou shousha\source\repos\Art Gallery\bin\Debug\Art Gallery.exe
+C:\Users\sara abou shousha\source\repos\Art Gallery\bin\Debug\Art Gallery.pdb
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art Gallery.csprojAssemblyReference.cache
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art_Gallery.Properties.Resources.resources
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art Gallery.csproj.GenerateResource.cache
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art Gallery.exe
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art Gallery.pdb
+C:\Users\sara abou shousha\source\repos\Art Gallery\bin\Debug\mydb.mdf
+C:\Users\sara abou shousha\source\repos\Art Gallery\bin\Debug\mydb_log.ldf
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art_Gallery.Homepage.resources
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art_Gallery.Customer.resources
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art_Gallery.Admin.resources
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art_Gallery.Artist.resources
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art_Gallery.Artworks.resources
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art_Gallery.Customer1.resources
+C:\Users\sara abou shousha\source\repos\Art Gallery\obj\Debug\Art_Gallery.Purchase.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\bin\Debug\Art Gallery.exe.config
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art Gallery.exe
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art Gallery.pdb
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\bin\Debug\mydb.mdf
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\bin\Debug\mydb_log.ldf
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\bin\Debug\Art Gallery.exe
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\bin\Debug\Art Gallery.pdb
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art Gallery.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Admin.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Artist.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Artworks.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Customer1.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Homepage.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Customer.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Properties.Resources.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Purchase.resources
+C:\Users\Dell\Desktop\RHU - CS\2nd semester\Database Management Systems\Art Gallery\obj\Debug\Art Gallery.csproj.GenerateResource.Cache
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\bin\Debug\Art Gallery.exe.config
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art Gallery.exe
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art Gallery.pdb
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\bin\Debug\mydb.mdf
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\bin\Debug\mydb_log.ldf
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\bin\Debug\Art Gallery.exe
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\bin\Debug\Art Gallery.pdb
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art Gallery.csprojResolveAssemblyReference.cache
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Admin.resources
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Artist.resources
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Artworks.resources
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Customer1.resources
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Homepage.resources
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Customer.resources
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Properties.Resources.resources
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art_Gallery.Purchase.resources
+I:\RHU - CS\1- First year 2019-2020\Spring 2020\Database Management Systems\Art Gallery\obj\Debug\Art Gallery.csproj.GenerateResource.Cache

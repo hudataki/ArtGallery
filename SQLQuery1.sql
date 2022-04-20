@@ -1,0 +1,11 @@
+﻿CREATE TABLE ARTIST(
+SSN INT,
+Name NVARCHAR (20),
+Birthplace NVARCHAR (30),
+Age INT,
+phone INT,
+email NVARCHAR (30),
+art_style  NVARCHAR (20),
+PRIMARY KEY (SSN))
+
+SELECT * FROM ARTIST
